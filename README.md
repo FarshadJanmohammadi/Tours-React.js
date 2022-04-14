@@ -18,7 +18,7 @@ https://singular-kheer-d384b1.netlify.app/
 
 ## Authors
 
-- [@FarshadJanmohammadi](https://www.FarshadJanmohammadi.ir)
+- [Farshad Janmohammadi](https://www.FarshadJanmohammadi.ir)
 
 ## Color Reference
 
